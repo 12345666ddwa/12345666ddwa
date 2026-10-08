@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Xing Gao — Economics at Macquarie University">
+  <rect width="1280" height="300" fill="#FAF7F0"/>
+  <rect width="1280" height="6" fill="#960002"/>
+  <rect y="6" width="1280" height="1" fill="#E6DCC8"/>
+  <text x="1010" y="280" font-family="'Songti SC','SimSun',Georgia,serif" font-size="260" fill="#960002" opacity="0.045" text-anchor="middle">兴</text>
+  <rect x="88" y="96" width="58" height="58" rx="7" fill="#960002"/>
+  <text x="117" y="137" font-family="'Songti SC','SimSun',Georgia,serif" font-size="34" fill="#FAF7F0" text-anchor="middle">兴</text>
+  <text x="178" y="128" font-family="Georgia,'Times New Roman',serif" font-size="50" fill="#2B2723" letter-spacing="2">Xing Gao</text>
+  <text x="182" y="170" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="21" fill="#6B645A" letter-spacing="9">高兴</text>
+  <rect x="180" y="196" width="64" height="2" fill="#B08D4F"/>
+  <text x="180" y="233" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="19" fill="#6B645A">Economics @ Macquarie University — building AI products, data stories &amp; websites.</text>
+  <text x="180" y="262" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#9A9183" letter-spacing="2">GITHUB.COM/12345666DDWA</text>
+</svg>
