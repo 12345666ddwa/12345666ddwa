@@ -4,7 +4,7 @@
 
 ### About
 
-Economics student in a joint program spanning **Sichuan Agricultural University** (Chengdu) and **Macquarie University** (Sydney). I build small, useful things with AI — products, data stories and websites — and ship them end-to-end: research → design → build → deploy. Most projects pair a rigorous method with a designed, browsable result you can open right in the browser.
+Economics student in a 2+2 joint program spanning **Sichuan Agricultural University** (Chengdu) and **Macquarie University** (Sydney). I build small, useful things with AI — products, data stories and websites — and ship them end-to-end: research → design → build → deploy. Most projects pair a rigorous method with a designed, browsable result you can open right in the browser.
 
 ---
 
@@ -51,9 +51,9 @@ These aren't slogans; they're the lens for what I build — tools for teachers, 
 - **Macquarie University** — undergraduate studies in Economics · Sydney, Australia
 - **Sichuan Agricultural University** — undergraduate studies in Economics · Chengdu, China
 
-*Both through the Sino-Foreign High-Level University Students Exchange Program (中外高水平大学学生交流计划) — organized by the China Center for International People-to-People Exchange, Ministry of Education.*
+*Both through the Sino-Foreign High-Level University Students Exchange Program (中外高水平大学学生交流计划) — a 2+2 credit-recognition joint program organized by the China Center for International People-to-People Exchange, Ministry of Education.*
 
-- **Provincial First Prize** — National College Students' E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge (三创赛)
+- **Provincial First Prize (2026)** — National College Students' E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge (三创赛)
 
 ### Beyond work
 
