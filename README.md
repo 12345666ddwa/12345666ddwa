@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.svg" alt="Xing Gao — Economics @ Macquarie University" width="100%"/>
+<img src="assets/banner.svg?v=2" alt="Xing Gao — Economics @ Macquarie University" width="100%"/>
 </div>
 
 ### About
