@@ -4,7 +4,18 @@
 
 ### About
 
-Economics student at **Macquarie University**, Sydney. I build small, useful things with AI — products, data stories and websites — and ship them end-to-end: research → design → build → deploy. Most projects pair a rigorous method with a designed, browsable result you can open right in the browser.
+Economics student in a joint program spanning **Sichuan Agricultural University** (Chengdu) and **Macquarie University** (Sydney). I build small, useful things with AI — products, data stories and websites — and ship them end-to-end: research → design → build → deploy. Most projects pair a rigorous method with a designed, browsable result you can open right in the browser.
+
+---
+
+### On this AI era
+
+Two convictions shape how I think about this era:
+
+- **AI should serve people.** That's the point of it — and a product that truly serves people is what makes it a good product.
+- **Its dividends should not stay concentrated.** More people should get to benefit from what AI makes possible — not just watch from the sidelines.
+
+These aren't slogans; they're the lens for what I build — tools for teachers, travelers and small businesses — and how I build it: practical, understandable, honestly evaluated. The question I keep returning to: where this technology is actually heading, and what it changes for ordinary people.
 
 ---
 
@@ -35,7 +46,23 @@ Economics student at **Macquarie University**, Sydney. I build small, useful thi
 
 ---
 
+### Education & honors
+
+- **Macquarie University** — undergraduate studies in Economics · Sydney, Australia
+- **Sichuan Agricultural University** — undergraduate studies in Economics · Chengdu, China
+
+*Both through the Sino-Foreign High-Level University Students Exchange Program (中外高水平大学学生交流计划) — organized by the China Center for International People-to-People Exchange, Ministry of Education.*
+
+- **Provincial First Prize** — National College Students' E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge (三创赛)
+
+### Beyond work
+
+- Lead vocalist & co-founder of **Grass (野草)** — my own band
+- Badminton
+
+---
+
 **Toolbox** — Python · SQL · Stata · Tableau · LLM APIs & agent pipelines · HTML/CSS/JS
 
 📍 Sydney, Australia
-<!-- TODO(Xing): add LinkedIn URL above once profile is live -->
+<!-- TODO(Xing): add LinkedIn URL once live -->
